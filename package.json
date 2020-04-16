@@ -1,0 +1,12 @@
+{
+  "name": "Discord",
+  "version": "0.1.0",
+  "description": "Projet bot discord",
+  "main": "main.js",
+  "repository": "https://github.com/Hoshiyo1/Bot-World.git",
+  "author": "Hoshiyo1 <blastgamessuryt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
